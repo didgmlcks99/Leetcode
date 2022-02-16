@@ -1,0 +1,4 @@
+dynamic programming: storing the results of sub-problem
+LCS, Longest Common Subsequence (최장 공통 부분 문자열)
+LIS, Longest Increasing Subsequence (최장 증가 부분 수열)
+heap sort: build heap from array, heapify (node is greater than both children), 조금더 공부해야뎀.
