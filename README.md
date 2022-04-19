@@ -12,12 +12,14 @@
 ## my_baekjoon
 | No. | Date | Problem | Name | Type | Language |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | 22.02.16 | 10872 | factorial | recursion | C++ |
-| 2 | 22.02.16 | 10870 | fibonacci | recursion | C++ |
-| 3 | 22.02.xx | 11729 | hanoi | recursion | C++ |
+| 1 | 22.02.16 | 10872 | 팩토리얼 | recursion | C++ |
+| 2 | 22.02.16 | 10870 | 피보나치 수 5 | recursion | C++ |
+| 3 | 22.02.xx | 11729 | 하노이 탑 이동 순서 | recursion | C++ |
 
 ## 22limwon
 | No. | Date | Problem | Name | Type | Language |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | 22.04.17 | 2750 | sorting | sorting | C++ |
-| 2 | 22.04.17 | 1968 | decimal | decimal | C++ |
+| 1 | 22.04.17 | 2750 | 수 정렬하기 | sorting | C++ |
+| 2 | 22.04.17 | 1968 | 소수 찾기 | prime number | C++ |
+| 3 | 22.04.17 | 2869 | 달팽이는 올라가고 싶다 | math | C++ |
+| 4 | 22.04.19 | 15649 | N과 M (1) | backtracking | C++ |
